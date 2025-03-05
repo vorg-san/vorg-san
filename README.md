@@ -1,3 +1,3 @@
-- 👋 Hi, I’m interested in blockchain, smart contracts, cryptocurrency, financial markets, ai, reinforcement learning.
+- Passionate fullstack engineer since 2008 
 
 - 📫 You can reach me at: https://www.linkedin.com/in/daniel-gabardo/
